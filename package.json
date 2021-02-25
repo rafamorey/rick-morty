@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafamorey/spa-rick-morty-.git"
+    "url": "git+https://github.com/rafamorey/rick-morty.git"
   },
   "bugs": {
-    "url": "https://github.com/rafamorey/spa-rick-morty-/issues"
+    "url": "https://github.com/rafamorey/rick-morty/issues"
   },
-  "homepage": "https://github.com/rafamorey/spa-rick-morty-#readme"
+  "homepage": "https://github.com/rafamorey/rick-morty#readme"
 }
